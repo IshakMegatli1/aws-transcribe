@@ -1,13 +1,4 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
-
 # Transcribe Audio Files with AI
-
-**Project Link:** [View Project](http://nextwork.ai/projects/aws-ai-transcribe)
-
-**Author:** ElHalouf  
-**Email:** shakyleboss@gmail.com
-
----
 
 ![Image](http://nextwork.ai/lively_blue_beautiful_jellyfish/uploads/aws-ai-transcribe_o2p3q4r1)
 
@@ -23,13 +14,6 @@ Services I used were Amazon Transcribe (for baseline transcription jobs, real-ti
 
 Key concepts I learnt include generating a baseline transcription job to establish default accuracy, using real-time transcription to convert live speech to text on the fly, applying custom vocabularies and vocabulary filtering to boost recognition of domain-specific terms, using speaker partitioning to identify and separate different speakers in the audio, and generating subtitles for ready-to-use video captions.
 
-### Project reflection
-
-...
-
-...
-
----
 
 ## S3 and Transcribe
 
